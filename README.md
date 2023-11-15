@@ -449,7 +449,8 @@ background: url(WhatsApp Image 2023-11-06 at 11.28.jpg);
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+
+![image](https://github.com/keerthanajayasri/Figma/assets/121163440/9b14b0fa-2e73-463e-b9be-a1a1c3f4fa7f)
 
 
 ## RESULT:
